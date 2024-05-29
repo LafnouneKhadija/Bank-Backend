@@ -131,6 +131,9 @@ qui m'on interesse et Map permet de transferer par exemple un dtos vers entites 
 <img src="captures/w15.PNG">
 <h4>On ajoute le dependance de springdoc openapi ui </h4>
 <img src="captures/w17.PNG">
+<img src="captures/n.PNG">
+<img src="captures/n1.PNG">
+<img src="captures/n2.PNG">
 
 
 
